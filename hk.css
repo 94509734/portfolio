@@ -1,0 +1,142 @@
+*{
+ margin:0;
+ padding:0;
+ }
+ 
+ body{
+ background-color:#033;
+ position:relative;
+ }
+ 
+ 
+ .main{
+ width:100%;
+ background-position:center;
+ background-size:fill;
+ 
+ }
+ 
+ .icon{
+ width:200px;
+ float:left;
+ }
+ 
+ .content{
+ padding-top:30px;
+ padding-left:15px;
+ }
+ 
+ .text{
+ color:blue;
+ }
+ 
+ .yel{
+ color:#ff7200;
+ }
+ 
+ .web{
+ color:#ff7200;
+ }
+ 
+ .year{
+ color:blue;
+ }
+ 
+ .btn{
+ margin-top:18px;
+ background-color:blue;
+ border:none;
+ border-radius:5px;
+ height:26px;
+ width:90px;
+ margin-left:15px;
+ margin-bottom:20px;
+ }
+ 
+ a .btn{
+ text-decoration:none;
+ color:white;
+ }
+ a .btn:hover{
+ background-color:#ff7200;
+ cursor:pointer;
+ }
+ .logo{
+ color:blue;
+ front-size:35px;
+ front-family:Arial;
+ padding-left:20px;
+ float:left;
+ padding-top:27px;
+ }
+ 
+ .E{
+ color:#ff7200;
+ }
+ .menue{
+ width:400px;
+ float:left;
+ margin-bottom:70px;
+ transition: 3s ease-out;
+ }
+ 
+ ul{
+ float:left;
+ display:flex;
+ justify-content:center;
+ align-items:center;
+ }
+ 
+ ul li{
+ list-style-type:none;
+ margin-left:62px;
+ margin-top:27px;
+ front-size:14px;
+ 
+ }
+ 
+ ul li a {
+ text-decoration:none;
+ color:#ff7200;
+ front-family:Arial;
+ front-weight:bold;
+
+ 
+ }
+ ul a:hover{
+ color:#ff4200;
+ border-radius:20px;
+ cursor:pointer;
+ transition:4s ease-in-out;
+ padding:7px 7px;
+ }
+ 
+ 
+ .content{
+ color:#fff;
+ padding-bottom:50px;
+ }
+ 
+ .img1{
+ justify-content:right;
+ align-items:right;
+ padding-left:230px;
+ margin-left:270px;
+ }
+ 
+ center .copy_right{
+ color:#fff;
+ padding-top:70px;
+ align-items:center;
+ justify-content:center;
+ }
+ 
+
+footer{
+position:fixed;
+bottom:5px;
+padding-left:65px;
+padding-right:65px;
+
+}
+ 
